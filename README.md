@@ -2,6 +2,6 @@
 
   Gincana, nova ideia de projeto, julho 2019
   
-  Formulario e apresentacao... ok
-  Prototipagem do Site... ok
-  Prototipagem da parte adm... em andamento 
+ <br> \n Formulario e apresentacao... ok 
+ <br> \n Prototipagem do Site... ok
+ <br> \n Prototipagem da parte adm... em andamento 
