@@ -5,6 +5,7 @@
  
  05/08/2019
  Titulo: Gincana IFSUL
+ 
  Nome: Leonardo Silva Borges
  
  Resumo: Desenvolver um sistema que auxilie na gincana, tanto na organização das turmas quanto no gerenciamento das atividades. 
