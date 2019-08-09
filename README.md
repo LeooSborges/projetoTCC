@@ -4,6 +4,7 @@
  
  
  05/08/2019
+ 09/08/2019
  Titulo: Gincana IFSUL
  
  Nome: Leonardo Silva Borges
@@ -14,6 +15,6 @@
  
  Documentação: Sem documentação por ter mudado de projeto recentemente.
  
- Prototipo: https://www.quant-ux.com/test.html?h=a2aa10aVwOtLfXgDTPWrsnzCTzYiyWX7k7qZmrm3kYhHhRpinjgmDZKfPKzS
+ Prototipo: https://www.quant-ux.com/#/apps/5d08f466e2fb53355b614a38/design/s10170.html
  
  Estagio atual: Validando a prototipagem para começar a programação no Netbeans.
